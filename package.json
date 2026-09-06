@@ -1,0 +1,8 @@
+{
+  "name": "web-creative-engine",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint"},
+  "dependencies": {"@supabase/ssr": "latest", "@supabase/supabase-js": "latest", "clsx": "latest", "gsap": "latest", "lucide-react": "latest", "motion": "latest", "next": "latest", "react": "latest", "react-dom": "latest", "tailwind-merge": "latest"},
+  "devDependencies": {"@types/node": "latest", "@types/react": "latest", "@types/react-dom": "latest", "typescript": "latest"}
+}
