@@ -2,7 +2,7 @@
   "name": "web-creative-engine",
   "version": "0.1.0",
   "private": true,
-  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint"},
-  "dependencies": {"@supabase/ssr": "latest", "@supabase/supabase-js": "latest", "clsx": "latest", "gsap": "latest", "lucide-react": "latest", "motion": "latest", "next": "latest", "react": "latest", "react-dom": "latest", "tailwind-merge": "latest"},
-  "devDependencies": {"@types/node": "latest", "@types/react": "latest", "@types/react-dom": "latest", "typescript": "latest"}
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start"},
+  "dependencies": {"clsx": "^2.1.1", "gsap": "^3.13.0", "lucide-react": "^0.468.0", "motion": "^12.23.12", "next": "^16.0.1", "react": "^19.2.0", "react-dom": "^19.2.0", "tailwind-merge": "^3.3.1"},
+  "devDependencies": {"@types/node": "^22.15.0", "@types/react": "^19.1.0", "@types/react-dom": "^19.1.0", "typescript": "^5.9.2"}
 }
