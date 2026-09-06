@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import './effects.css';
 
 export const metadata: Metadata = {
   title: 'Web Creative Engine',
